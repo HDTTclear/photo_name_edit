@@ -4,6 +4,7 @@ Created on Wed Mar 13 00:55:13 2019
 
 @author: 16000
 """
+#最好使用anaconda运行
 import re
 
 def atoi(text):
